@@ -1,0 +1,11 @@
+{	
+	"defense_element":{
+		"fire":3,
+		"ice":3,
+		"water":3,
+		"thunder":3,
+		"light":3,
+		"darkness":3,
+		"bio":3
+	}
+}
