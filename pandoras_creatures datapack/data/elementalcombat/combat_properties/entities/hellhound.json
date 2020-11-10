@@ -1,0 +1,16 @@
+{
+	"attack_style":"",
+	"attack_element":"darkness",
+	
+	"defense_stlye":{
+	},
+	
+	"defense_element":{
+		"fire":25,
+		"darkness":20,
+		"ice":-25,
+		"light":20
+	},
+	
+	"biome_dependency":false
+}

@@ -1,0 +1,13 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	
+	"defense_stlye":{
+	},
+	
+	"defense_element":{
+		"earth":-10
+	},
+	
+	"biome_dependency":false
+}
