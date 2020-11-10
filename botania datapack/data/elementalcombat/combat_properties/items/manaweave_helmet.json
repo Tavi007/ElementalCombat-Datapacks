@@ -1,0 +1,11 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	
+	"defense_style":{
+		"magic":8
+	},
+	
+	"defense_element":{
+	}
+}

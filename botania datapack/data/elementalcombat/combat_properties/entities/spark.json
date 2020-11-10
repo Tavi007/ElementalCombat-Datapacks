@@ -1,0 +1,14 @@
+{
+	"attack_style":"",
+	"attack_element":"thunder",
+	
+	"defense_stlye":{
+	},
+	
+	"defense_element":{
+		"thunder":8,
+		"water":-8
+	},
+	
+	"biome_dependency":false
+}
