@@ -1,0 +1,11 @@
+{
+	"attack_style":"basic",
+	"attack_element":"natural",
+	
+	"defense_style":{
+	},
+	
+	"defense_element":{
+		"wind":-12
+	}
+}
