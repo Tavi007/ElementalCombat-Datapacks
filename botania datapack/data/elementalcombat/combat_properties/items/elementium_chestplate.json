@@ -6,12 +6,12 @@
 	},
 	
 	"defense_element":{
-		"fire":4,
-		"ice":4,
-		"water":4,
-		"thunder":4,
-		"light":4,
-		"darkness":4,
-		"bio":4
+		"fire":20,
+		"ice":20,
+		"water":20,
+		"thunder":20,
+		"light":20,
+		"darkness":20,
+		"bio":20
 	}
 }
