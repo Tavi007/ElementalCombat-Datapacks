@@ -6,8 +6,8 @@
 	},
 	
 	"defense_element":{
-		"fire":25,
-		"ice":-25
+		"fire":100,
+		"ice":-100
 	},
 	
 	"biome_dependency":false

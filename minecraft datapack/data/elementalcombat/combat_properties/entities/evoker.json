@@ -1,13 +1,13 @@
 {
-	"attack_style":"",
+	"attack_style":"magic",
 	"attack_element":"",
 	
 	"defense_stlye":{
+		"magic":50
 	},
 	
 	"defense_element":{
-		"light":-50
 	},
 	
-	"biome_dependency":true
+	"biome_dependency":false
 }

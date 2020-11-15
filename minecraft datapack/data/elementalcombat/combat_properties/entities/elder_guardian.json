@@ -6,10 +6,10 @@
 	},
 	
 	"defense_element":{
-		"water":25,
-		"fire":12,
-		"ice":12
+		"water":75,
+		"fire":25,
+		"ice":25
 	},
 	
-	"biome_dependency":false
+	"biome_dependency":true
 }

@@ -6,9 +6,9 @@
 	},
 	
 	"defense_element":{
-		"earth":12,
-		"wind":-4
+		"earth":50,
+		"wind":-25
 	},
 	
-	"biome_dependency":false
+	"biome_dependency":true
 }
