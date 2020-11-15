@@ -10,5 +10,5 @@
 		"thunder":-25
 	},
 	
-	"biome_dependency":false
+	"biome_dependency":true
 }
