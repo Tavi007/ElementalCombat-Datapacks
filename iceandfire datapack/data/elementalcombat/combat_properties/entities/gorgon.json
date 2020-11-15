@@ -1,13 +1,11 @@
 {
 	"attack_style":"",
-	"attack_element":"fire",
+	"attack_element":"",
 	
 	"defense_stlye":{
 	},
 	
 	"defense_element":{
-		"fire":25,
-		"ice":-25
 	},
 	
 	"biome_dependency":false
