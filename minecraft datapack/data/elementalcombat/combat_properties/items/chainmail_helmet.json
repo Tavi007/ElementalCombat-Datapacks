@@ -3,7 +3,7 @@
 	"attack_element":"natural",
 	
 	"defense_style":{
-		"slash":4
+		"slash":20
 	},
 	
 	"defense_element":{
