@@ -1,6 +1,6 @@
 {
 "mapping":{
-	"natural":"🛡",
+	"normal":"🛡",
 	"fire":"🔥",
 	"ice":"❄",
 	"water":"💧",
@@ -9,13 +9,14 @@
 	"light":"☀",
 	"wind":"🌫",
 	"earth":"🏔",
-	"bio":"🌱",
+	"flora":"🌱",
 	
-	"basic":"🛡",
+	"hit":"🛡",
 	"slash":"🗡",
 	"stab":"Stab",
 	"explosion":"💥",
 	"projectile":"🏹",
+	"enviroment":"Enviroment",
 	"magic":"⚗"
 	}
 }
