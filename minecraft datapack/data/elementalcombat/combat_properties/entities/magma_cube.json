@@ -3,14 +3,14 @@
 	"attack_element":"fire",
 	
 	"defense_stlye":{
-		"magic":-50
+		"magic":2.0
 	},
 	
 	"defense_element":{
-		"fire":100,
-		"ice":-100,
-		"normal":50
+		"fire":25,
+		"ice":-25,
+		"normal":12
 	},
 	
-	"biome_dependency":false
+	"florame_dependency":false
 }

@@ -6,10 +6,10 @@
 	},
 	
 	"defense_element":{
-		"darkness":50,
-		"light":-100,
-		"fire":50
+		"darkness":12,
+		"light":-25,
+		"fire":12
 	},
 	
-	"biome_dependency":false
+	"florame_dependency":false
 }

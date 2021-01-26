@@ -6,8 +6,8 @@
 	},
 	
 	"defense_element":{
-		"water":75
+		"water":25
 	},
 	
-	"biome_dependency":true
+	"florame_dependency":false
 }

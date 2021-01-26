@@ -1,13 +1,13 @@
 {
 	"attack_style":"explosion",
-	"attack_element":"thunder",
+	"attack_element":"",
 	
 	"defense_stlye":{
 	},
 	
 	"defense_element":{
-		"thunder":50
+		"thunder":12
 	},
 	
-	"biome_dependency":true
+	"florame_dependency":true
 }
