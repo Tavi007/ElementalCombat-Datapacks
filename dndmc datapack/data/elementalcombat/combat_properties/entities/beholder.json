@@ -1,0 +1,18 @@
+{
+	"attack_style":"stab",
+	"attack_element":"darkness",
+	
+	"defense_stlye":{
+		"slash":20,
+		"stab":20,
+		"magic":20,
+		"projectile":20
+	},
+	
+	"defense_element":{
+		"darkness":30,
+		"light":-30
+	},
+	
+	"biome_dependency":false
+}
