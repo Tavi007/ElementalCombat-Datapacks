@@ -1,0 +1,14 @@
+{
+	"defense_style":{
+		"stab":5,
+		"magic":10
+	},
+	
+	"defense_element":{
+		"darkness":5,
+		"ice":5,
+		"light":-10,
+		"fire":5,
+		"thunder":5
+	}
+}

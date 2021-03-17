@@ -1,0 +1,13 @@
+{
+	"defense_style":{
+		"slash":4,
+		"stab":6,
+		"projectile":5
+	},
+	
+	"defense_element":{
+		"bio":10,
+		"water":10,
+		"fire":-10
+	}
+}

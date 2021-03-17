@@ -1,0 +1,15 @@
+{
+	"defense_style":{
+		"slash":5,
+		"stab":10,
+		"projectile":10,
+		"magic":15
+	},
+	
+	"defense_element":{
+		"fire":-20,
+		"water":10,
+		"thunder":-10,
+		"bio":20
+	}
+}

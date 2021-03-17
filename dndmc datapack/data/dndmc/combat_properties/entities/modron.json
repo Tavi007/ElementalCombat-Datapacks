@@ -1,0 +1,25 @@
+{
+	"attack_style":"basic",
+	"attack_element":"light",
+	
+	"defense_stlye":{
+		"slash":25,
+		"stab":25,
+		"explosion":15,
+		"magic":-25,
+		"projectile":23
+	},
+	
+	"defense_element":{
+		"water":30,
+		"wind":30,
+		"earth":30,
+		"fire":-30,
+		"ice":-30,
+		"thunder":-30,
+		"light":50,
+		"darkness":-50
+	},
+	
+	"biome_dependency":false
+}

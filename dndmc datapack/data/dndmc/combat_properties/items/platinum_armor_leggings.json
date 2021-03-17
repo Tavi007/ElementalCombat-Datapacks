@@ -1,0 +1,13 @@
+{
+	"defense_style":{
+		"slash":15,
+		"stab":15,
+		"explosion":20
+	},
+	
+	"defense_element":{
+		"water":20,
+		"ice":20,
+		"wind":-20
+	}
+}

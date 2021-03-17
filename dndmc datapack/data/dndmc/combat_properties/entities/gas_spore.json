@@ -1,0 +1,20 @@
+{
+	"attack_style":"basic",
+	"attack_element":"bio",
+	
+	"defense_stlye":{
+		"slash":50,
+		"stab":35,
+		"explosion":30,
+		"magic":-20,
+		"projectile":20
+	},
+	
+	"defense_element":{
+		"bio":100,
+		"light":-30,
+		"darkness":30
+	},
+	
+	"biome_dependency":false
+}
