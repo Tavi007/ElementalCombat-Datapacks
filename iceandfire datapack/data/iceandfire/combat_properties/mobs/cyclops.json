@@ -3,6 +3,7 @@
 	"attack_element":"earth",
 	
 	"defense_stlye":{
+		"stab":-50
 	},
 	
 	"defense_element":{

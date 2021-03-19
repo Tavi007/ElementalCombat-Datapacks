@@ -3,10 +3,10 @@
 	"attack_element":"",
 	
 	"defense_stlye":{
+		"slash":-5
 	},
 	
 	"defense_element":{
-		"wind":-30
 	},
 	
 	"biome_dependency":false

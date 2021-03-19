@@ -1,16 +1,14 @@
 {
-	"attack_style":"",
-	"attack_element":"",
+	"attack_style":"magic",
+	"attack_element":"ice",
 	
 	"defense_stlye":{
+		"magic":50
 	},
 	
 	"defense_element":{
-		"earth":-50,
-		"fire":20,
-		"ice":20,
-		"water":20,
-		"thunder":20
+		"ice":120,
+		"fire":-50
 	},
 	
 	"biome_dependency":false
