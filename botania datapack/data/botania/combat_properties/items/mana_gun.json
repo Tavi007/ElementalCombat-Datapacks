@@ -1,6 +1,6 @@
 {
-	"attack_style":"slash",
-	"attack_element":"light",
+	"attack_style":"magic",
+	"attack_element":"",
 	
 	"defense_style":{
 	},
