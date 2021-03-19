@@ -1,0 +1,15 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	
+	"defense_style":{
+		"slash":5,
+		"stab":2,
+		"projectile":2
+	},
+	
+	"defense_element":{
+		"light":5,
+		"darkness":-5
+	}
+}

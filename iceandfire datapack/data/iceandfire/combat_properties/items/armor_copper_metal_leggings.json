@@ -1,0 +1,16 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	
+	"defense_style":{
+		"slash":9,
+		"stab":7,
+		"projectile":10,
+		"magic":-5,
+		"explosion":4
+	},
+	
+	"defense_element":{
+		"thunder":-10
+	}
+}

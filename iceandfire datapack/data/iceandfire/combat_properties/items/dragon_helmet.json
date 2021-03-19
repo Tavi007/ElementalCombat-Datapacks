@@ -1,0 +1,17 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	
+	"defense_style":{
+		"slash":3,
+		"stab":3,
+		"hit":3
+	},
+	
+	"defense_element":{
+		"fire":2,
+		"water":2,
+		"thunder":2,
+		"ice":2
+	}
+}
