@@ -1,10 +1,12 @@
 {
-	"attack_style":"slash",
-	"attack_element":"thunder",
+	"attack_style":"",
+	"attack_element":"",
 	
 	"defense_style":{
+		"enviroment":4
 	},
 	
 	"defense_element":{
+		"earth":4
 	}
 }

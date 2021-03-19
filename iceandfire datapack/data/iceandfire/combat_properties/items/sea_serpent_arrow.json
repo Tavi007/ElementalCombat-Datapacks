@@ -1,6 +1,6 @@
 {
-	"attack_style":"slash",
-	"attack_element":"normal",
+	"attack_style":"projectile",
+	"attack_element":"water",
 	
 	"defense_style":{
 	},

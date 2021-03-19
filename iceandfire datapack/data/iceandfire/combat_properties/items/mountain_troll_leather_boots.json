@@ -1,10 +1,11 @@
 {
-	"attack_style":"slash",
-	"attack_element":"normal",
+	"attack_style":"",
+	"attack_element":"",
 	
 	"defense_style":{
 	},
 	
 	"defense_element":{
+		"earth":4
 	}
 }

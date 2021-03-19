@@ -1,8 +1,11 @@
 {
-	"attack_style":"slash",
-	"attack_element":"thunder",
+	"attack_style":"",
+	"attack_element":"",
 	
 	"defense_style":{
+		"stab":3,
+		"slash":3,
+		"hit":3
 	},
 	
 	"defense_element":{
