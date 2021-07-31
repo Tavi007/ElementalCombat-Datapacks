@@ -3,11 +3,11 @@
 	"attack_element":"",
 	
 	"defense_stlye":{
-		"projectile":10
+		"projectile":15
 	},
 	
 	"defense_element":{
-		"darkness":4,
-		"light":-2
+		"darkness":8,
+		"light":-4
 	}
 }
