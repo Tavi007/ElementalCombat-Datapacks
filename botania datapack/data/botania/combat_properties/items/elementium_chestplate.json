@@ -6,12 +6,12 @@
 	},
 	
 	"defense_element":{
-		"fire":10,
-		"ice":10,
-		"water":10,
-		"thunder":10,
-		"light":10,
-		"darkness":10,
-		"flora":10
+		"fire":15,
+		"ice":15,
+		"water":15,
+		"thunder":15,
+		"light":15,
+		"darkness":15,
+		"flora":15
 	}
 }

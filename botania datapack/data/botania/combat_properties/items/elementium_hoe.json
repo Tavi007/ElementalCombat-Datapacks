@@ -1,6 +1,6 @@
 {
-	"attack_style":"stab",
-	"attack_element":"earth",
+	"attack_style":"slash",
+	"attack_element":"",
 	
 	"defense_style":{
 	},
