@@ -1,9 +1,8 @@
 {
-	"attack_style":"",
-	"attack_element":"",
+	"attack_style":"stab",
+	"attack_element":"normal",
 	
 	"defense_style":{
-		"slash":5
 	},
 	
 	"defense_element":{
