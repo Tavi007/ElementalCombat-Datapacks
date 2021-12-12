@@ -19,7 +19,7 @@
 		"thunder":-20,
 		"light":-20,
 		"darkness":40,
-		"bio":10
+		"flora":10
 	},
 	
 	"biome_dependency":false

@@ -1,6 +1,6 @@
 {
 	"attack_style":"slash",
-	"attack_element":"bio",
+	"attack_element":"flora",
 	
 	"defense_stlye":{
 		"slash":55,
@@ -19,7 +19,7 @@
 		"thunder":10,
 		"light":-45,
 		"darkness":90,
-		"bio":-300
+		"flora":-300
 	},
 	
 	"biome_dependency":false

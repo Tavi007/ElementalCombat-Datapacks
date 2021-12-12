@@ -11,7 +11,7 @@
 	},
 	
 	"defense_element":{
-		"bio":100,
+		"flora":100,
 		"fire":-40,
 		"light":-20
 	},

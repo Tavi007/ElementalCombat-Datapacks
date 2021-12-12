@@ -1,6 +1,6 @@
 {
 	"attack_style":"stab",
-	"attack_element":"bio",
+	"attack_element":"flora",
 	
 	"defense_stlye":{
 		"slash":10,
@@ -19,7 +19,7 @@
 		"thunder":5,
 		"light":-20,
 		"darkness":70,
-		"bio":50
+		"flora":50
 	},
 	
 	"biome_dependency":false

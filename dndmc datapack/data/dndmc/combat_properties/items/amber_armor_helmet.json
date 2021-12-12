@@ -9,6 +9,6 @@
 	"defense_element":{
 		"fire":10,
 		"ice":10,
-		"bio":-10
+		"flora":-10
 	}
 }

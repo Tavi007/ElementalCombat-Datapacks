@@ -1,6 +1,6 @@
 {
 	"attack_style":"basic",
-	"attack_element":"bio",
+	"attack_element":"flora",
 	
 	"defense_stlye":{
 		"slash":50,
@@ -11,7 +11,7 @@
 	},
 	
 	"defense_element":{
-		"bio":100,
+		"flora":100,
 		"light":-30,
 		"darkness":30
 	},

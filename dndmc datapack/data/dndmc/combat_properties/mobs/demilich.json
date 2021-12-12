@@ -14,7 +14,7 @@
 		"darkness":110,
 		"light":-60,
 		"earth":110,
-		"bio":-20
+		"flora":-20
 	},
 	
 	"biome_dependency":false

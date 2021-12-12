@@ -16,7 +16,7 @@
 		"darkness":100,
 		"fire":35,
 		"ice":35,
-		"bio":-35,
+		"flora":-35,
 		"wind":-30,
 		"earth":20
 	},

@@ -12,7 +12,7 @@
 	
 	"defense_element":{
 		"fire":50,
-		"bio":100,
+		"flora":100,
 		"ice":50,
 		"darkness":50,
 		"thunder":100,
