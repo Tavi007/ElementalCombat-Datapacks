@@ -1,0 +1,8 @@
+{
+	"attack_element":"flora",
+	"defense_style":{
+        "water":-25,
+        "flora":10
+	},
+	"biome_dependency":true
+}

@@ -1,0 +1,8 @@
+{
+	"attack_element":"wind",
+	"defense_style":{
+        "water":-25,
+        "wind":10,
+        "earth":-5
+	},
+}

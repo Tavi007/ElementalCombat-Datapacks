@@ -1,0 +1,8 @@
+{
+	"attack_style":"explosion",
+	"attack_element":"wind",
+	"defense_element":{
+		"wind":10
+	},
+	"biome_dependency":true
+}

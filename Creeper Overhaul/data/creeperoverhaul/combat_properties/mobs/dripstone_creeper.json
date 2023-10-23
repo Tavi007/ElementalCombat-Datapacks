@@ -1,0 +1,9 @@
+{
+	"attack_style":"explosion",
+	"attack_element":"water",
+	"defense_element":{
+		"earth":10,
+        "water":10,
+        "thunder":-5
+	}
+}
