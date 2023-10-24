@@ -1,0 +1,7 @@
+{
+	"attack_element":"darkness",
+	"defense_element":{
+		"darkness":15,
+        "light":-7
+	}
+}
