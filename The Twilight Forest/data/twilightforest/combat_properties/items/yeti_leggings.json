@@ -1,0 +1,4 @@
+{
+	"defense_element":["ice":10, "fire":-10],
+    "defense_style":["hit":10]
+}
