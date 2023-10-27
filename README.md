@@ -4,9 +4,11 @@ A collection of the datapacks for the elemental combat properties of different m
 
 Feel free to use any datapack and change them for your modpack. These datapacks provide a good starting point for any modpack and may only need some slight adjusting depending on your expected difficulty curve.
 
+Currently everything here is still work in progress. It takes some time to write all these files...
+
 ## How to use
 
-1. Select the branch with correct version
+1. Select the branch with correct version (the main branch is used for development)
 2. Click on the folder with mod you are interessted in
 3. Download the .zip file
 4. Add it to the datapack folder of your modpack save file.
@@ -32,3 +34,6 @@ Here is a rundown on how I usually balance a datapack. In some cases I divert fr
   - more to come later
 - (Long) swords, axes and hoes/scythes have the style "slash"
 - Daggers, spears, tridents and pickaxes have the style "stab"
+- Any item, that is able to shoot stuff, has the style "projectile" to better show what it will do.
+- Wands are similar, but will have the style "magic"
+- Throwable explosives is again similar, but with style "explosion"
