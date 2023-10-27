@@ -1,4 +1,4 @@
 {
-	"defense_element":["light":5],
-	"defense_style":["slash":5]
+	"defense_element":{"light":5},
+	"defense_style":{"slash":5}
 }

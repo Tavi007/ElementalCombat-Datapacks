@@ -1,3 +1,3 @@
 {
-	"defense_style":["slash":15, "projectile":15, "magic":15, "stab":15, "hit":15]
+	"defense_style":{"slash":15, "projectile":15, "magic":15, "stab":15, "hit":15}
 }

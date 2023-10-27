@@ -1,3 +1,3 @@
 {
-	"defense_element":["water":5, "fire":5]
+	"defense_element":{"water":5, "fire":5}
 }
