@@ -20,7 +20,7 @@ First you need the following folder structure:
 	
 	data
 	 ↳ <mod_id>
-	    ↳ combat_properties 
+	    ↳ elemental_combat_properties 
 	       ↳ biomes
 	       ↳ damage_sources
 	       ↳ items
