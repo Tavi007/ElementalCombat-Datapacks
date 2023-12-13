@@ -1,0 +1,6 @@
+{
+	"attack_style":"",
+	"attack_element":"",
+	"defense_style":{},
+	"defense_element":{"earth":25, "wind":-50}
+}

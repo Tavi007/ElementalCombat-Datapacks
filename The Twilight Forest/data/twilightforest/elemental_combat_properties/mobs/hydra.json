@@ -1,0 +1,6 @@
+{
+	"attack_style":"environment",
+	"attack_element":"fire",
+	"defense_style":{"hit":50, "magic":50, "projectile":50, "stab":50},
+	"defense_element":{"fire":100, "ice":-50, "wind":75, "earth":-50}
+}

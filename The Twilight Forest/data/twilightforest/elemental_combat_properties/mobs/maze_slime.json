@@ -1,0 +1,5 @@
+{
+	"attack_element":"earth",
+	"defense_style":{"hit":75, "slash":75, "stab":75, "projectile":75},
+	"defense_element":{"earth":50}
+}
