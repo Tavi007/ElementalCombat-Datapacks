@@ -5,7 +5,6 @@
 		"projectile":12,
 		"explosion":17
 	},
-	
 	"defense_element":{
 		"wind":10,
 		"earth":10,

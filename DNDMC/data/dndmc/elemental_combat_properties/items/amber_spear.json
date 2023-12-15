@@ -1,10 +1,4 @@
 {
 	"attack_style":"stab",
-	"attack_element":"wind",
-	
-	"defense_style":{
-	},
-	
-	"defense_element":{
-	}
+	"attack_element":"wind"
 }

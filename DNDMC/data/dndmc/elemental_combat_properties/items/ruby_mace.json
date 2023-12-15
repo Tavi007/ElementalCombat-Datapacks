@@ -1,10 +1,4 @@
 {
 	"attack_style":"explosion",
-	"attack_element":"fire",
-	
-	"defense_style":{
-	},
-	
-	"defense_element":{
-	}
+	"attack_element":"fire"
 }

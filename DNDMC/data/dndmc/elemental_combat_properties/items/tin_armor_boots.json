@@ -5,8 +5,5 @@
 		"magic":2,
 		"explosion":8,
 		"projectile":3
-	},
-	
-	"defense_element":{
 	}
 }

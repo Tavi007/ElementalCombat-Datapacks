@@ -5,7 +5,6 @@
 		"projectile":10,
 		"explosion":10
 	},
-	
 	"defense_element":{
 		"water":20,
 		"thunder":20,
