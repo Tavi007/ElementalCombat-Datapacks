@@ -16,6 +16,5 @@
 		"ice":50,
 		"light":-25,
 		"flora":100
-	},
-	"biome_dependency":false
+	}
 }

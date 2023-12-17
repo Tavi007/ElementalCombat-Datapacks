@@ -17,6 +17,5 @@
 		"flora":-35,
 		"wind":-30,
 		"earth":20
-	},
-	"biome_dependency":false
+	}
 }

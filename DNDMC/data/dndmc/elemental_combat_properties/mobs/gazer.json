@@ -14,6 +14,5 @@
 		"fire":-50,
 		"thunder":-50,
 		"ice":-50
-	},
-	"biome_dependency":false
+	}
 }

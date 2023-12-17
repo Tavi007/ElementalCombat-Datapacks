@@ -11,6 +11,5 @@
 	"defense_element":{
 		"fire":-35,
 		"earth":50
-	},
-	"biome_dependency":false
+	}
 }

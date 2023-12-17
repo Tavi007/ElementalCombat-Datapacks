@@ -12,6 +12,5 @@
 		"flora":100,
 		"fire":-40,
 		"light":-20
-	},
-	"biome_dependency":false
+	}
 }

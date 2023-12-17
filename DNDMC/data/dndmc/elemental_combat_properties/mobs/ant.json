@@ -13,6 +13,5 @@
 		"earth":50,
 		"fire":-50,
 		"ice":-50
-	},
-	"biome_dependency":false
+	}
 }

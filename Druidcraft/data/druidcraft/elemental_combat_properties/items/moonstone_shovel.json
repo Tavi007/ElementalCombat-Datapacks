@@ -1,10 +1,4 @@
 {
-	"attack_style":"",
-	"attack_element":"darkness",
-	
-	"defense_stlye":{
-	},
-	
-	"defense_element":{
-	}
+	"attack_style":"bash",
+	"attack_element":"darkness"
 }

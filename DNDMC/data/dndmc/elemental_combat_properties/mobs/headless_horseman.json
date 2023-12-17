@@ -18,6 +18,5 @@
 		"light":20,
 		"darkness":55,
 		"flora":50
-	},
-	"biome_dependency":false
+	}
 }

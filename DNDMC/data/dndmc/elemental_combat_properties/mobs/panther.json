@@ -11,6 +11,5 @@
 		"fire":-30,
 		"darkness":10,
 		"light":-10
-	},
-	"biome_dependency":false
+	}
 }

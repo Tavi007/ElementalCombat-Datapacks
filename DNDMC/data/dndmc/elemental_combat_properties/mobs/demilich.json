@@ -13,6 +13,5 @@
 		"light":-60,
 		"earth":110,
 		"flora":-20
-	},
-	"biome_dependency":false
+	}
 }

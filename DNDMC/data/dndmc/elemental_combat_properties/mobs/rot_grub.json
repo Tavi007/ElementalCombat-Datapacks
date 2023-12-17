@@ -14,6 +14,5 @@
 		"flora":60,
 		"fire":-60,
 		"ice":-30
-	},
-	"biome_dependency":false
+	}
 }

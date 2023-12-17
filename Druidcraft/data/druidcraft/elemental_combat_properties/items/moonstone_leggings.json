@@ -1,11 +1,7 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	
 	"defense_stlye":{
 		"explosion":20
 	},
-	
 	"defense_element":{
 		"darkness":5,
 		"light":-3

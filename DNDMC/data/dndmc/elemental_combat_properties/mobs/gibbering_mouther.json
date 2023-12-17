@@ -4,6 +4,5 @@
 		"slash":10,
 		"stab":5,
 		"bash":-5
-	},
-	"biome_dependency":false
+	}
 }

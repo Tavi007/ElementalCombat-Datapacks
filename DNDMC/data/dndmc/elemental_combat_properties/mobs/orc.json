@@ -10,6 +10,5 @@
 	"defense_element":{
 		"darkness":20,
 		"light":-20
-	},
-	"biome_dependency":false
+	}
 }

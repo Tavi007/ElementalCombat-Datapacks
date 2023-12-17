@@ -9,6 +9,5 @@
 	"defense_element":{
 		"fire":-15,
 		"flora":100
-	},
-	"biome_dependency":false
+	}
 }

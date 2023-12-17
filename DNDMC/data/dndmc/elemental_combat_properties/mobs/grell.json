@@ -13,6 +13,5 @@
 		"thunder":100,
 		"darkness":25,
 		"light":-25
-	},
-	"biome_dependency":false
+	}
 }
