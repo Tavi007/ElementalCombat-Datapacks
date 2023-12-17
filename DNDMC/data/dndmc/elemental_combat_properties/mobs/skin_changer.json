@@ -1,7 +1,5 @@
 {
 	"attack_style":"slash",
-	"attack_element":"natural",
-	
 	"defense_stlye":{
 		"slash":90,
 		"stab":90,
@@ -9,7 +7,6 @@
 		"magic":-30,
 		"projectile":90
 	},
-	
 	"defense_element":{
 		"water":15,
 		"wind":15,
@@ -21,6 +18,5 @@
 		"darkness":-10,
 		"flora":-40
 	},
-	
 	"biome_dependency":false
 }

@@ -1,15 +1,12 @@
 {
 	"attack_style":"slash",
 	"attack_element":"ice",
-	
 	"defense_stlye":{
 		"slash":80,
 		"stab":70,
 		"explosion":80,
-		"magic":15,
-		"projectile":0
+		"magic":15
 	},
-	
 	"defense_element":{
 		"water":25,
 		"wind":50,
@@ -21,6 +18,5 @@
 		"darkness":100,
 		"flora":-50
 	},
-	
 	"biome_dependency":false
 }

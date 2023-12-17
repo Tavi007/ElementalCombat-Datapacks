@@ -1,7 +1,6 @@
 {
 	"attack_style":"slash",
 	"attack_element":"flora",
-	
 	"defense_stlye":{
         "slash":25,
         "stab":15,
@@ -9,11 +8,9 @@
 		"magic":-20,
 		"projectile":10
 	},
-	
 	"defense_element":{
 		"fire":-35,
 		"earth":50
 	},
-	
 	"biome_dependency":false
 }

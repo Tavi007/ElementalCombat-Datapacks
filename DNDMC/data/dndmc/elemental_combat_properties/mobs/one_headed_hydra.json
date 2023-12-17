@@ -1,7 +1,6 @@
 {
 	"attack_style":"stab",
 	"attack_element":"water",
-	
 	"defense_stlye":{
 		"slash":50,
 		"stab":50,
@@ -9,7 +8,6 @@
 		"magic":-40,
 		"projectile":10
 	},
-	
 	"defense_element":{
 		"water":40,
 		"wind":20,
@@ -21,6 +19,5 @@
 		"darkness":25,
 		"flora":20
 	},
-	
 	"biome_dependency":false
 }

@@ -1,15 +1,12 @@
 {
 	"attack_style":"magic",
 	"attack_element":"light",
-	
 	"defense_stlye":{
 		"magic":50
 	},
-	
 	"defense_element":{
 		"darkness":-30,
 		"light":30
 	},
-	
 	"biome_dependency":false
 }

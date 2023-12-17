@@ -1,7 +1,5 @@
 {
-	"attack_style":"basic",
 	"attack_element":"wind",
-	
 	"defense_stlye":{
 		"slash":25,
 		"stab":25,
@@ -9,7 +7,6 @@
 		"magic":-25,
 		"projectile":23
 	},
-	
 	"defense_element":{
 		"water":1,
 		"wind":80,
@@ -20,6 +17,5 @@
 		"light":-40,
 		"darkness":-30
 	},
-	
 	"biome_dependency":false
 }

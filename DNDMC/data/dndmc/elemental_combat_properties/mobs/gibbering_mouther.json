@@ -1,15 +1,9 @@
 {
 	"attack_style":"slash",
-	"attack_element":"natural",
-	
 	"defense_stlye":{
 		"slash":10,
 		"stab":5,
 		"explosion":-5
 	},
-	
-	"defense_element":{
-	},
-	
 	"biome_dependency":false
 }
