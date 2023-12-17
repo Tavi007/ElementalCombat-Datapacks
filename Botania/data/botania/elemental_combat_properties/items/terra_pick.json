@@ -1,10 +1,4 @@
 {
 	"attack_style":"stab",
-	"attack_element":"earth",
-	
-	"defense_style":{
-	},
-	
-	"defense_element":{
-	}
+	"attack_element":"earth"
 }

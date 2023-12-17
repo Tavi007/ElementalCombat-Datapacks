@@ -1,12 +1,5 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	
 	"defense_style":{
 		"hit":10
-	},
-	
-	"defense_element":{
-		"normal":10
 	}
 }
