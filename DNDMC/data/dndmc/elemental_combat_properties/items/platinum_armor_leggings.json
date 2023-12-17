@@ -2,7 +2,7 @@
 	"defense_style":{
 		"slash":15,
 		"stab":15,
-		"explosion":20
+		"bash":20
 	},
 	"defense_element":{
 		"water":20,

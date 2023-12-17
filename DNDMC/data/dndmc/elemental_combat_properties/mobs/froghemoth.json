@@ -1,10 +1,10 @@
 {
-	"attack_style":"explosion",
+	"attack_style":"bash",
 	"attack_element":"water",
 	"defense_stlye":{
 		"slash":50,
 		"stab":50,
-		"explosion":50,
+		"bash":50,
 		"magic":30,
 		"projectile":15
 	},

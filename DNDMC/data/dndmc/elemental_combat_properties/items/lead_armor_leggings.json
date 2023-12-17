@@ -2,10 +2,9 @@
 	"defense_style":{
 		"slash":8,
 		"stab":8,
-		"explosion":5,
+		"bash":5,
 		"projectile":5
 	},
-	
 	"defense_element":{
 		"fire":6
 	}

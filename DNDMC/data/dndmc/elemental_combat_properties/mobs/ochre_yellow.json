@@ -1,10 +1,10 @@
 {
-	"attack_style":"explosion",
+	"attack_style":"bash",
 	"attack_element":"flora",
 	"defense_stlye":{
 		"slash":100,
 		"stab":1,
-		"explosion":1,
+		"bash":1,
 		"magic":-15,
 		"projectile":1
 	},

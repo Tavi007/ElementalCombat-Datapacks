@@ -5,7 +5,6 @@
 		"magic":15,
 		"projectile":10
 	},
-	
 	"defense_element":{
 		"darkness":30,
 		"light":20,

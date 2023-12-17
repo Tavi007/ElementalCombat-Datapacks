@@ -3,7 +3,7 @@
 		"slash":6,
 		"stab":5,
 		"magic":2,
-		"explosion":8,
+		"bash":8,
 		"projectile":3
 	}
 }

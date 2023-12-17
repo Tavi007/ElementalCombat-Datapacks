@@ -3,7 +3,7 @@
 	"defense_stlye":{
 		"slash":5,
 		"stab":5,
-		"explosion":1,
+		"bash":1,
 		"magic":15,
 		"projectile":1
 	},

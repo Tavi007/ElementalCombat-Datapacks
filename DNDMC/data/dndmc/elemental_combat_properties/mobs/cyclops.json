@@ -1,10 +1,10 @@
 {
-	"attack_style":"explosion",
+	"attack_style":"bash",
 	"attack_element":"earth",
 	"defense_stlye":{
 		"slash":50,
 		"stab":5,
-		"explosion":65,
+		"bash":65,
 		"magic":1,
 		"projectile":5
 	},

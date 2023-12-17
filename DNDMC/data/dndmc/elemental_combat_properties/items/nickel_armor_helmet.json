@@ -5,7 +5,6 @@
 		"magic":8,
 		"projectile":5
 	},
-	
 	"defense_element":{
 		"ice":10
 	}

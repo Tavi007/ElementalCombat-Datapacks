@@ -1,10 +1,10 @@
 {
-	"attack_style":"explosion",
+	"attack_style":"bash",
 	"attack_element":"darkness",
 	"defense_stlye":{
 		"slash":-15,
 		"stab":-15,
-		"explosion":-15,
+		"bash":-15,
 		"magic":35,
 		"projectile":35
 	},

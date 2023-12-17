@@ -2,7 +2,7 @@
 	"attack_style":"magic",
 	"attack_element":"darkness",
 	"defense_stlye":{
-		"explosion":5,
+		"bash":5,
 		"magic":25,
 		"projectile":-10
 	},

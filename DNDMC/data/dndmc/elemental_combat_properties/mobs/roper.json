@@ -1,9 +1,9 @@
 {
-	"attack_style":"explosion",
+	"attack_style":"bash",
 	"defense_stlye":{
 		"slash":35,
 		"stab":35,
-		"explosion":35,
+		"bash":35,
 		"magic":-55,
 		"projectile":35
 	},

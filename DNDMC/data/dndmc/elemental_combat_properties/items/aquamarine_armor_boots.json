@@ -3,7 +3,7 @@
 		"slash":5,
 		"projectile":6,
 		"magic":4,
-		"explosion":2
+		"bash":2
 	},
 	"defense_element":{
 		"water":10,

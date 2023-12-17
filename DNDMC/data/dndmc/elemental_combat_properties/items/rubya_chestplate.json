@@ -3,7 +3,7 @@
 		"slash":5,
 		"stab":2,
 		"projectile":5,
-		"explosion":5
+		"bash":5
 	},
 	"defense_element":{
 		"fire":10,

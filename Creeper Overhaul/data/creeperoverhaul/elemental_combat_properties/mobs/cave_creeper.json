@@ -3,6 +3,5 @@
 	"attack_element":"earth",
 	"defense_element":{
 		"earth":10
-	},
-	"biome_dependency":false
+	}
 }

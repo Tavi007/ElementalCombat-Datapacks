@@ -2,7 +2,7 @@
 	"defense_style":{
 		"slash":8,
 		"stab":8,
-		"explosion":2,
+		"bash":2,
 		"projectile":7
 	}
 }
