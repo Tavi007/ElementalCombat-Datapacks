@@ -1,13 +1,7 @@
 {
-	"attack_style":"",
-	"attack_element":"flora",
-	
-	"defense_stlye":{
-	},
-	
+	"attack_style":"bite"
 	"defense_element":{
 		"flora":50
 	},
-	
 	"biome_dependency":true
 }
