@@ -1,5 +1,5 @@
 {
-	"attack_style":"bite"
+	"attack_style":"bite",
 	"defense_element":{
 		"flora":50
 	},

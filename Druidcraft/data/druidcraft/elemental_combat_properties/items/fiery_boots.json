@@ -1,6 +1,9 @@
 {
+	"defense_style":{
+		"bash":10
+	},
 	"defense_element":{
-		"light":15,
-		"darkness":-10
+		"light":5,
+		"darkness":-3
 	}
 }

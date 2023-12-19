@@ -2,8 +2,8 @@
 	"attack_style":"bite",
 	"attack_element":"darkness",
 	"defense_element":{
-		"light":-10,
-		"darkness":20,
-		"water":20
+		"darkness":50,
+		"light":-25,
+		"fire":-15
 	}
 }

@@ -1,9 +1,9 @@
 {
 	"defense_stlye":{
-		"projectile":10
+		"projectile":20
 	},
 	"defense_element":{
-		"darkness":4,
-		"light":-2
+		"darkness":5,
+		"light":-3
 	}
 }

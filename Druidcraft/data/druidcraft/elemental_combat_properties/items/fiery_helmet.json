@@ -1,4 +1,9 @@
 {
-	"attack_style":"slash",
-	"attack_element":"light"
+	"defense_style":{
+		"bash":10
+	},
+	"defense_element":{
+		"light":5,
+		"darkness":-3
+	}
 }

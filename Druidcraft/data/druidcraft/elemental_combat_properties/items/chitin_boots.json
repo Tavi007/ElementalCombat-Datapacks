@@ -1,8 +1,8 @@
 {
 	"defense_stlye":{
-		"slash":5
+		"slash":10
 	},
 	"defense_element":{
-		"flora":10
+		"flora":5
 	}
 }
