@@ -1,5 +1,8 @@
 {
 	"attack_style":"bite",
+	"defense_style":{
+		"slash":50
+	},
 	"defense_element":{
 		"flora":50
 	},
