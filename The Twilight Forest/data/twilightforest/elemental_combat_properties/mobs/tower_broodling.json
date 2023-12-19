@@ -1,6 +1,6 @@
 {
-	"attack_style":"",
-	"attack_element":"",
+	"attack_style":"bite",
+	"attack_element":"earth",
 	"defense_style":{},
 	"defense_element":{}
 }
