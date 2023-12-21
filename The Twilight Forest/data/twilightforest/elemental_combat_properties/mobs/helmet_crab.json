@@ -1,6 +1,12 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"attack_element":"water",
+	"defense_style":{
+		"stab":-20,
+		"slash":20,
+		"bash":20
+	},
+	"defense_element":{
+		"water":50,
+		"thunder":-25
+	}
 }

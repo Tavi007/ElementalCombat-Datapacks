@@ -1,6 +1,11 @@
 {
 	"attack_style":"bite",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"stab":-20,
+		"projectile":50,
+		"explosion":-50
+	},
+	"defense_element":{
+		"normal":30
+	}
 }

@@ -1,5 +1,13 @@
 {
 	"attack_element":"earth",
-	"defense_style":{"hit":75, "slash":75, "stab":75, "projectile":75},
-	"defense_element":{"earth":50}
+	"defense_style":{
+		"hit":50,
+		"slash":50,
+		"bash":50,
+		"stab":50,
+		"projectile":50,
+		"explosion":50,
+		"environment":-100,
+		"magic":-100
+	}
 }

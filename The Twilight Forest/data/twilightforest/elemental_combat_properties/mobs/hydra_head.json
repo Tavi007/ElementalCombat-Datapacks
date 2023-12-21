@@ -1,4 +1,6 @@
 {
+	"attack_style":"bite",
+	"attack_element":"fire",
 	"defense_style":{
 		"hit":50,
 		"magic":50,

@@ -1,5 +1,9 @@
 {
 	"attack_style":"slash",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"magic":75,
+		"environment":-50,
+		"slash":-15,
+		"stab":-15
+	}
 }

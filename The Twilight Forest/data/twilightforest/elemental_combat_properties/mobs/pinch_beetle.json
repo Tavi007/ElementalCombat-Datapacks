@@ -1,6 +1,8 @@
 {
 	"attack_style":"bite",
-	"attack_element":"flora",
-	"defense_style":{},
-	"defense_element":{}
+	"attack_element":"earth",
+	"defense_style":{
+		"slash":50,
+		"bash":-30
+	}
 }

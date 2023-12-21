@@ -1,6 +1,8 @@
 {
 	"attack_style":"slash",
 	"attack_element":"flora",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"magic":75,
+		"environment":-50
+	}
 }

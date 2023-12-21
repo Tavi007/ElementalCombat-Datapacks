@@ -1,6 +1,7 @@
 {
 	"attack_style":"bash",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"hit":-50,
+		"projectile":50
+	}
 }

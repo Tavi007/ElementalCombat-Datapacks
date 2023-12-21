@@ -1,5 +1,15 @@
 {
+	"attack_style":"slash",
 	"attack_element":"darkness",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"slash":75,
+		"stab":75,
+		"projectile":75,
+		"bash":-25,
+		"magic":-25
+	},
+	"defense_element":{
+		"darkness":50,
+		"light":-25
+	}
 }

@@ -1,6 +1,10 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"attack_style":"slash",
+	"attack_element":"flora",
+	"defense_style":{
+		"slash":20
+	},
+	"defense_element":{
+		"flora":50
+	}
 }

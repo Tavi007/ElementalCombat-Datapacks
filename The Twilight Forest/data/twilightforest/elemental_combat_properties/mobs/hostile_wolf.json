@@ -1,4 +1,6 @@
 {
 	"attack_style":"bite",
-	"defense_style":{"punch":20}
+	"defense_style":{
+		"hit":20
+	}
 }

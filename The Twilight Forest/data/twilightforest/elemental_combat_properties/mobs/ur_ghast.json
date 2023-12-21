@@ -1,6 +1,13 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"attack_element":"fire",
+	"defense_style":{
+		"projectile":20,
+		"magic":20,
+		"slash":-35,
+		"stab":-35
+	},
+	"defense_element":{
+		"fire":75,
+		"ice":-50
+	}
 }
