@@ -1,5 +1,10 @@
 {
 	"attack_element":"ice",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"bash":-25
+	},
+	"defense_element":{
+		"fire":-50,
+		"ice":50
+	}
 }

@@ -1,6 +1,10 @@
 {
-	"attack_style":"",
-	"attack_element":"",
-	"defense_style":{},
-	"defense_element":{}
+	"attack_style":"stab",
+	"defense_style":{
+		"explosion":-50
+	},
+	"defense_element":{
+		"wind":50,
+		"earth":-25
+	}
 }

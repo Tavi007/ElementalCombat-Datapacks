@@ -1,5 +1,11 @@
 {
 	"attack_style":"bite",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"stab":20,
+		"bash":10
+	},
+	"defense_element":{
+		"ice":40,
+		"fire":-20
+	}
 }

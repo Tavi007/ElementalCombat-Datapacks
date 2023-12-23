@@ -1,6 +1,12 @@
 {
 	"attack_style":"bite",
 	"attack_element":"ice",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"projectile":40,
+		"slash":40
+	},
+	"defense_element":{
+		"ice":40,
+		"fire":-20
+	}
 }

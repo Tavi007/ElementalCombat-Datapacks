@@ -1,6 +1,16 @@
 {
 	"attack_style":"magic",
 	"attack_element":"ice",
-	"defense_style":{},
-	"defense_element":{}
+	"defense_style":{
+		"bash":-25,
+		"stab":-25,
+		"hit":25,
+		"slash":25,
+		"projectile":25,
+		"magic":25
+	},
+	"defense_element":{
+		"fire":-50,
+		"ice":125
+	}
 }

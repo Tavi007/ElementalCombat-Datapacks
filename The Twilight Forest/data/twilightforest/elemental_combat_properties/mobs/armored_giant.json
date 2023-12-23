@@ -1,8 +1,11 @@
 {
-	"attack_style":"",
-	"attack_element":"",
+	"attack_style":"slash",
 	"defense_style":{
-		"bash":30
+		"bash":30,
+		"explosion":-50
 	},
-	"defense_element":{}
+	"defense_element":{
+		"wind":50,
+		"earth":-25
+	}
 }
