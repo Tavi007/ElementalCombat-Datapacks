@@ -1,0 +1,1 @@
+Note: The entities cast from Soulfire Wand and Bonechill Wand are not vanilla projectile entities (yet?) and sadly therefore won't work with Elemental Combat.

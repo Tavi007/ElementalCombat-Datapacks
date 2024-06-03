@@ -1,0 +1,17 @@
+{
+	"attack_style":"environmental",
+	"attack_element":"darkness",
+	"defense_style":{
+		"slash":50,
+		"stab":50,
+		"bash":50,
+		"projectile":50,
+		"hit":50,
+		"bite":50,
+		"magic":-50
+	},
+	"defense_element":{
+		"darkness":50,
+		"light":-50
+	}
+}
