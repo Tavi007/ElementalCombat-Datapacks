@@ -1,0 +1,9 @@
+{
+	"attack_style":"bite",
+	"attack_element":"ice",
+	"defense_element":{
+		"ice":4,
+		"fire":-4
+	},
+	"biome_dependency":true
+}

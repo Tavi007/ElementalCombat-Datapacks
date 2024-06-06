@@ -1,0 +1,9 @@
+{
+	"attack_style":"bite",
+	"attack_element":"water",
+	"defense_element":{
+		"water":4,
+		"thunder":-4
+	},
+	"biome_dependency":true
+}

@@ -1,0 +1,8 @@
+{
+	"attack_element":"ice",
+	"defense_element":{
+		"ice":10,
+		"fire":-5
+	},
+	"biome_dependency":true
+}

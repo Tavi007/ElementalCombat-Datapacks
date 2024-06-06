@@ -1,0 +1,23 @@
+{
+	"attack_style":"stab",
+	"attack_element":"water",
+	"defense_element":{
+		"fire":50,
+		"ice":50,
+		"water":80,
+		"thunder":-40,
+		"darkness":50,
+		"wind":-40,
+		"earth":80,
+		"flora":50
+	},
+	"defense_style":{
+		"hit":50,
+		"slash":20,
+		"stab":-20,
+		"bash":-20,
+		"projectile":100,
+		"explosion":-50,
+		"magic":50
+	}
+}
