@@ -1,0 +1,8 @@
+{
+	"attack_element":"water",
+	"attack_style":"bite",
+	"defense_element":{
+		"water":15,
+        "thunder":-7
+	}
+}
