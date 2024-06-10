@@ -1,6 +1,7 @@
 {
-	"defense_element":{
-		"light":5,
-		"darkness":5
+	"defense_style":{
+		"stab":5,
+		"slash":5,
+		"bash":-10
 	}
 }

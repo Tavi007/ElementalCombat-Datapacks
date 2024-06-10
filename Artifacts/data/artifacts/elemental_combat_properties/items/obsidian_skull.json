@@ -1,6 +1,6 @@
 {
 	"defense_element":{
-		"light":5,
-		"darkness":5
+		"darkness":5,
+		"light":-5
 	}
 }

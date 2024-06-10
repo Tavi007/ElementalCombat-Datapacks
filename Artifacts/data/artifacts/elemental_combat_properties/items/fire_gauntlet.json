@@ -1,6 +1,6 @@
 {
 	"defense_element":{
-		"light":5,
-		"darkness":5
+		"fire":5,
+		"ice":-5
 	}
 }
