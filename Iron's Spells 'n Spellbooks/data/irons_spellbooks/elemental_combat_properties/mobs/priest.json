@@ -1,0 +1,8 @@
+{
+	"attack_style":"magic",
+	"attack_element":"light",
+	"defense_element":{
+		"light":25,
+		"darkness":-25
+	}
+}

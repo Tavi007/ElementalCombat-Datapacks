@@ -1,0 +1,8 @@
+{
+	"attack_style":"magic",
+	"attack_element":"water",
+	"defense_element":{
+		"water":25,
+		"thunder":-25
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"attack_style":"slash",
+	"attack_element":"wind",
+	"defense_element":{
+		"earth":12,
+		"wind":-6
+	}
+}

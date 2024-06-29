@@ -1,0 +1,8 @@
+{
+	"attack_style":"magic",
+	"attack_element":"ice",
+	"defense_element":{
+		"ice":25,
+		"fire":-25
+	}
+}
