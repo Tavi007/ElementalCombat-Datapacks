@@ -1,0 +1,7 @@
+{
+	"attack_style":"slash",
+	"defense_style":{
+		"magic":15,
+		"slash":15
+	}
+}
